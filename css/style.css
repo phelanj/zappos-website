@@ -147,7 +147,7 @@ ul.built { list-style: none; margin: 0 auto; width: 730px; }
 }
 
 #slide3{
-	background-color: #fff;
+	background-color: #0ff;
 	color: #fff;
 	height: 600px;
 	padding: 170px 0 0 0;	
@@ -157,14 +157,14 @@ ul.built { list-style: none; margin: 0 auto; width: 730px; }
 #slide4{
 	background-color: #5ff;
 	color: #333333;
-	height: 300px;
+	height: 600px;
 	padding: 200px 0;
 }
 
 #slide5{
-	background-color: #5ff;
+	background-color: #500;
 	color: #333333;
-	height: 300px;
+	height: 600px;
 	padding: 200px 0;
 }
 
