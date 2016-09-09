@@ -46,6 +46,8 @@ h4 {
 	padding: 0;
 }
 
+
+
 .center { margin: 0 auto; }
 .content{ margin: 0 auto; width: 960px; }
 .clear { clear: both; }
@@ -95,8 +97,8 @@ font-family: 'Lato', sans-serif;
  .txtbox_white { font-family: 'Open Sans Condensed', sans-serif;  margin: 70px 0 0 75px; color: #fff; font-size: 20px; }  
  .txtbox_gray { font-family: 'Open Sans Condensed', sans-serif;  margin: 70px 0 0 75px; color: #94a4a4; font-size: 20px; }  
  .txtbox_container { width: 800px; margin: 0 auto; }
- #divider { background: url('.../img/divider.png')no-repeat; width: 300px; height: 35px; margin: 0px; auto 27px; auto;}
-
+#divider { background: url('../img/divider.png')no-repeat; width: 300px; height: 35px; margin: 0px auto 27px auto; }
+#ribbon { background: url('../img/ribbon.png')no-repeat; width: 251px; height: 48px; margin: 0 auto;  display: block; position: relative; top: -50px; }
 
 
 /*= BUTTONS
@@ -127,7 +129,7 @@ ul.built { list-style: none; margin: 0 auto; width: 730px; }
 
 #slide1, #slide2{ width: 100%; }
 #slide1{
-	background:url('../img/slide1.jpg') 50% 0 no-repeat fixed;
+	background:url('../img/slide1.jpg') 50% 0 no-repeat;
 	color: #fff;
 	height: 600px;
 	margin: 0;
