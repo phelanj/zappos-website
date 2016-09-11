@@ -140,8 +140,8 @@ ul.built { list-style: none; margin: 0 auto; width: 730px; }
 
 #slide1, #slide2{ width: 100%; }
 #slide1{
-	background:url('../img/slide1.jpg') 50% 0 no-repeat;
-	color: #fff;
+	/* background:url('../img/slide1.jpg') 50% 0 no-repeat; */
+	background-color: #54A9A2;
 	height: 600px;
 	margin: 0;
 	padding: 180px 0 260px 0;
