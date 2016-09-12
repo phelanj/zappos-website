@@ -13,4 +13,6 @@ Llama wallpaper used for slide 1 created by [/u/alt42](https://www.flickr.com/ph
 
 Llama icon used for slide 1 created by [/u/samdamana](http://s432.photobucket.com/user/samdamana/media/Llamapic.png.html) on photobucket.
 
+Low poly mountain used for slide 3 found on [wallup.net](http://wallup.net/low-poly-landscape-render/)
+
 Lightbox plugin used on slide 2 and 4 created by [Jan Sorgalla](http://sorgalla.com/lity/)
